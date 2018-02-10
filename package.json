@@ -1,0 +1,24 @@
+{
+  "name": "js-object-versioning",
+  "version": "1.0.0",
+  "description": "js object versioning",
+  "main": "index.js",
+  "scripts": {
+    "test": "testcmd"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fernandolcs/javascript-object-versioning.git"
+  },
+  "keywords": [
+    "javascript",
+    "versioning",
+    "path"
+  ],
+  "author": "Fernando Souza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Fernandolcs/javascript-object-versioning/issues"
+  },
+  "homepage": "https://github.com/Fernandolcs/javascript-object-versioning#readme"
+}
